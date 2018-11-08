@@ -1,5 +1,5 @@
 {
-  "name": "css-generate",
+  "name": "altcss-sample",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "stylus-sort": "stylus-sort -c zen ./src/stylus/main.styl",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "hu-moonstone",
   "license": "ISC",
   "devDependencies": {
     "gulp-stylint": "^4.0.2",
