@@ -1,0 +1,18 @@
+{
+  "name": "css-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stylus-sort": "stylus-sort -c zen ./src/stylus/main.styl",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-stylint": "^4.0.2",
+    "gulp-stylus": "^2.7.0",
+    "stylus": "^0.54.5",
+    "stylus-sort": "^1.0.3"
+  }
+}
